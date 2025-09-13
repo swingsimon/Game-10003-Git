@@ -227,4 +227,3 @@ class ForestOfFates
         Console.WriteLine("Thanks for playing Forest of Fates.");
     }
 }
-
